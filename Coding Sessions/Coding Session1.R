@@ -1,5 +1,5 @@
 ############################################
-### R Coding Session 1                   ###
+### R Coding Session 1                   ######
 ############################################
 ## Introduced Rstudio Interface
 
@@ -15,8 +15,11 @@ library(ISLR)
 library(ggplot2)
 library(dplyr)
 library(scales)
+library(ISLR)
+library(ISLR)
 
-# Auto is a built-in dataset in package ISLR, and we create a dataset called "data" for it
+
+## Auto is a built-in dataset in package ISLR, and we create a dataset called "data" for it
 Auto_Data <- Auto
 
 ## Snapshot of how data looks like
